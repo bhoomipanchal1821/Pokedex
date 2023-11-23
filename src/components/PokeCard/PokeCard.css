@@ -1,0 +1,22 @@
+.card {
+  height: 12rem;
+  background-color: #f6d743;
+  min-width: 15rem;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  cursor: pointer;
+}
+
+div.card:hover {
+  transform: scale(1.05);
+}
+
+.row.float-start {
+  padding-left: 2rem;
+}
+.card-img-top {
+  height: 6rem;
+  width: 6rem;
+}
+
+

@@ -1,0 +1,12 @@
+.conatiner.mt-5 {
+    width: 70%;
+    min-height: 475px;}
+    .pokelist {
+      
+        background-color: rgba(252,126,47,0.6);
+        height: 455px;margin: 10px;border-radius: 10px 1px 1px 10px;overflow-y: scroll;
+    }
+.pokesearch {
+        background-color: rgba(252,126,47,0.6);
+        height: 455px;
+        margin: 10px;border-radius: 1px 10px 10px 1px;font-size: 13px;overflow: hidden;}
